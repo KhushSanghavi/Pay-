@@ -1,6 +1,6 @@
-## PayEase
+## Pay
 
-Welcome to the PayEase project! Our platform simplifies payment and transaction management, offering both backend and frontend solutions.
+Welcome to the Pay project! Our platform simplifies payment and transaction management, offering both backend and frontend solutions.
 
 ### Backend Setup
 
